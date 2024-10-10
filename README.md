@@ -1,1 +1,1 @@
-# omedhl.github.io
+# omedhl.github.iojekyll new --skip-bundle .
